@@ -1,0 +1,1 @@
+This is a simulation of a blackjack game. It is a single player game against a dealer. To start the program run the command “python3 blackjack.py”. 
